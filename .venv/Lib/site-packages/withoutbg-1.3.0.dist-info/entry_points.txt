@@ -1,0 +1,2 @@
+[console_scripts]
+withoutbg = withoutbg.cli:main

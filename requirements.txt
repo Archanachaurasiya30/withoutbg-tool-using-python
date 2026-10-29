@@ -1,0 +1,4 @@
+withoutbg
+pillow
+tqdm
+streamlit

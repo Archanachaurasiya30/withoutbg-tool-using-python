@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+*.jpg
+*.jpeg
+*.png
+!examples/
+output/
+models/
+.idea/
+.vscode/
+.DS_Store
